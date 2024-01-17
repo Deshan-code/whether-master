@@ -11,6 +11,6 @@ resource "aws_instance" "example" {
   
   tags = {
     Name = "example-instance"
-    # Add other tags as needed to deploy
+    # Add other tags as needed 
   }
 }
